@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'web-console', group: :development
+gem 'spring', group: :development
 group :development, :test do
   gem 'byebug'
 end
