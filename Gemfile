@@ -15,4 +15,5 @@ gem 'spring', group: :development
 group :development, :test do
   gem 'byebug'
 end
+gem 'active_model_serializers'
 
